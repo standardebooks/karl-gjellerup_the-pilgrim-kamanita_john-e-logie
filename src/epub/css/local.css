@@ -67,3 +67,8 @@ section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
 }
+
+#chapter-10 blockquote:nth-of-type(3) p{
+	font-variant: small-caps;
+	text-align: center;
+}
