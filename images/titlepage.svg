@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
-	<title>The titlepage for the Standard Ebooks edition of The Pilgrim Kamanita, by Karl Gjellerup. Translated by John F. Logie</title>
+	<title>The titlepage for the Standard Ebooks edition of The Pilgrim Kamanita, by Karl Gjellerup. Translated by John E. Logie</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -31,5 +31,5 @@
 	<text class="title" x="700" y="230">KAMANITA</text>
 	<text class="author" x="700" y="390">KARL GJELLERUP</text>
 	<text class="contributor-descriptor" x="700" y="580">translated by</text>
-	<text class="contributor" x="700" y="640">JOHN F. LOGIE</text>
+	<text class="contributor" x="700" y="640">JOHN E. LOGIE</text>
 </svg>
