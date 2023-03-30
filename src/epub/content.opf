@@ -28,49 +28,55 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Pilgrim Kamanita</dc:title>
 		<meta property="file-as" refines="#title">Pilgrim Kamanita, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Legendary Romance</dc:title>
+		<meta property="file-as" refines="#subtitle">Legendary Romance, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Pilgrim Kamanita: A Legendary Romance</dc:title>
+		<meta property="file-as" refines="#fulltitle">Pilgrim Kamanita, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:subject id="subject-1">Religious fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-1">sh85112657</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Spirituality</meta>
+		<dc:description id="description">An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business and pleasure, and unknowingly relates his tale to the Buddha.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Late one night, as he seeks shelter in a potter’s entrance hall, Kamanita meets an old ascetic. Encouraged by the monk, he relates the story of his life so far: how, born the son of an Indian merchant, he follows in his father’s footsteps; how, on his first trading trip, he meets and loses his great love Vasitthi; how he builds up a fortune and raises a family; and how one day he leaves everything behind to set on a pilgrimage. But the old monk is not who he seems, and when Kamanita refuses to accept his teachings, the consequences are startling and irriversible. What follows is a colorful, bewildering, revelation-filled journey through the past, present and the Paradise of the West.&lt;/p&gt;
+			&lt;p&gt;Sixteen years before &lt;a href="https://standardebooks.org/ebooks/hermann-hesse"&gt;Hermann Hesse&lt;/a&gt; published &lt;a href="https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets"&gt;&lt;i&gt;Siddharta&lt;/i&gt;&lt;/a&gt;, there was another European writer who used Buddhism as a source of inspiration for a novel. After earlier naturalistic works such as &lt;i&gt;Minna&lt;/i&gt; and &lt;i&gt;Germanernes Lærling&lt;/i&gt; (The German Apprentice), The Pilgrim Kamanita was a stylistic turning point for the Dane &lt;a href="https://standardebooks.org/ebooks/karl-gjellerup"&gt;Karl Gjellerup&lt;/a&gt;. It became a worldwide success, and his subsequent novels would touch on Buddhism as well. For his contributions to literature, Gjellerup together with compatriot Henrik Pontoppidan received a Nobel Prize in 1917.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>https://en.wikisource.org/wiki/The_Pilgrim_Kamanita</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.514595</dc:source>
+		<meta property="se:production-notes">The opening words were changed from "This have I heard" to "Thus have I heard", as this is the common translation for the first line in Buddhist discourses.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/karl-gjellerup_the-pilgrim-kamanita_john-f-logie</meta>
 		<dc:creator id="author">Karl Gjellerup</dc:creator>
 		<meta property="file-as" refines="#author">Gjellerup, Karl</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Karl Adolph Gjellerup</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Karl_Gjellerup</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n88261579</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aft</meta>
 		<dc:contributor id="translator">John F. Logie</dc:contributor>
 		<meta property="file-as" refines="#translator">Logie, John F.</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n2005002881</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Albert Edelfelt</dc:contributor>
+		<meta property="file-as" refines="#artist">Edelfelt, Albert</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Albert Gustaf Aristides Edelfelt</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Edelfelt</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82230057</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://wikisource.org</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Bob Reus</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Reus, Bob</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.bobre.us</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
