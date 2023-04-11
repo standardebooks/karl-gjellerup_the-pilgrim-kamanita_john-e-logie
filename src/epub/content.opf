@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/karl-gjellerup/the-pilgrim-kamanita/john-e-logie</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-04-11T18:26:55Z</dc:date>
+		<meta property="dcterms:modified">2023-04-11T18:26:55Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,17 +40,17 @@
 		<meta property="term" refines="#subject-1">sh85112657</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Spirituality</meta>
-		<dc:description id="description">An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business and pleasure, and unknowingly relates his tale to the Buddha.</dc:description>
+		<dc:description id="description">An Indian merchant’s son sets on a pilgrimage after a life of love, loss, business, and pleasure, and unknowingly relates his tale to the Buddha.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Late one night, as he seeks shelter in a potter’s entrance hall, Kamanita meets an old ascetic. Encouraged by the monk, he relates the story of his life so far: how, born the son of an Indian merchant, he follows in his father’s footsteps; how, on his first trading trip, he meets and loses his great love Vasitthi; how he builds up a fortune and raises a family; and how one day he leaves everything behind to set on a pilgrimage. But the old monk is not who he seems, and when Kamanita refuses to accept his teachings, the consequences are startling and irriversible. What follows is a colorful, bewildering, revelation-filled journey through the past, present and the Paradise of the West.&lt;/p&gt;
-			&lt;p&gt;Sixteen years before &lt;a href="https://standardebooks.org/ebooks/hermann-hesse"&gt;Hermann Hesse&lt;/a&gt; published &lt;a href="https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets"&gt;&lt;i&gt;Siddharta&lt;/i&gt;&lt;/a&gt;, there was another European writer who used Buddhism as a source of inspiration for a novel. After earlier naturalistic works such as &lt;i&gt;Minna&lt;/i&gt; and &lt;i&gt;Germanernes Lærling&lt;/i&gt; (The German Apprentice), The Pilgrim Kamanita was a stylistic turning point for the Dane &lt;a href="https://standardebooks.org/ebooks/karl-gjellerup"&gt;Karl Gjellerup&lt;/a&gt;. It became a worldwide success, and his subsequent novels would touch on Buddhism as well. For his contributions to literature, Gjellerup together with compatriot Henrik Pontoppidan received a Nobel Prize in 1917.&lt;/p&gt;
+			&lt;p&gt;Late one night, as he seeks shelter in a potter’s entrance hall, Kamanita meets an old ascetic. Encouraged by the monk, he relates the story of his life so far: how, born the son of an Indian merchant, he follows in his father’s footsteps; how, on his first trading trip, he meets and loses his great love Vasitthi; how he builds up a fortune and raises a family; and how one day he leaves everything behind to set on a pilgrimage. But the old monk is not who he seems, and when Kamanita refuses to accept his teachings, the consequences are startling and irreversible. What follows is a colorful, bewildering, revelation-filled journey through the past, present, and the Paradise of the West.&lt;/p&gt;
+			&lt;p&gt;Sixteen years before &lt;a href="https://standardebooks.org/ebooks/hermann-hesse"&gt;Hermann Hesse&lt;/a&gt; published &lt;a href="https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets"&gt;&lt;i&gt;Siddharta&lt;/i&gt;&lt;/a&gt;, there was another European writer who used Buddhism as a source of inspiration for a novel. After earlier naturalistic works such as &lt;i&gt;Minna&lt;/i&gt; and &lt;i&gt;Germanernes Lærling&lt;/i&gt; (The German Apprentice), &lt;i&gt;The Pilgrim Kamanita&lt;/i&gt; was a stylistic turning point for the Dane &lt;a href="https://standardebooks.org/ebooks/karl-gjellerup"&gt;Karl Gjellerup&lt;/a&gt;. It became a worldwide success, and his subsequent novels would touch on Buddhism as well.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_Pilgrim_Kamanita</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.514595</dc:source>
-		<meta property="se:production-notes">The opening words were changed from "This have I heard" to "Thus have I heard", as this is the common translation for the first line in Buddhist discourses.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">1. The opening words were changed from "This have I heard" to "Thus have I heard", as this is the common translation for the first line in Buddhist discourses. 2. There is some non-standard formatting in Chapter 10. According to the author's note at the end of the book, this chapter mimicks the style of Indian Sutras. Therefore I have tried to keep the formatting intact where it might go against SEMoS (smallcaps text, mainly)</meta>
+		<meta property="se:word-count">84436</meta>
+		<meta property="se:reading-ease.flesch">61.9</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/karl-gjellerup_the-pilgrim-kamanita_john-e-logie</meta>
 		<dc:creator id="author">Karl Gjellerup</dc:creator>
 		<meta property="file-as" refines="#author">Gjellerup, Karl</meta>
@@ -83,6 +83,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
