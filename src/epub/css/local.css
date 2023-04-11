@@ -68,14 +68,6 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 
-.sutra-quote{
-	font-variant: small-caps;
-}
-
-blockquote.sutra-quote{
-	text-align: center;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -83,4 +75,9 @@ footer{
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+#chapter-10 blockquote:nth-of-type(3),
+#chapter-10 blockquote:nth-of-type(4){
+	text-align: center;
 }
