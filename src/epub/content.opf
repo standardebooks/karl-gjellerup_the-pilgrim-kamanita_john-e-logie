@@ -58,8 +58,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Karl Adolph Gjellerup</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Karl_Gjellerup</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n88261579</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">waw</meta>
 		<dc:contributor id="translator">John E. Logie</dc:contributor>
 		<meta property="file-as" refines="#translator">Logie, John E.</meta>
