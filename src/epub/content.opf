@@ -58,7 +58,7 @@
 		<dc:creator id="author">Karl Gjellerup</dc:creator>
 		<meta property="file-as" refines="#author">Gjellerup, Karl</meta>
 		<meta property="schema:alternateName" refines="#author">Karl Adolph Gjellerup</meta>
-		<link href="https://en.wikipedia.org/wiki/Karl_Gjellerup" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n88261579.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
